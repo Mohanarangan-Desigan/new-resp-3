@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&family=Ruslan+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&family=Ruslan+Display&family=Satisfy&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.card-style-1 {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Qahiri', sans-serif;
+    font-family: 'Ruslan Display', cursive;
+}
+
+.card-title {
+    font-size: 35px;
+    font-family: 'Qahiri', sans-serif;
+    font-family: 'Ruslan Display', cursive;
+    font-family: 'Satisfy', cursive;
+}
